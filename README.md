@@ -5,7 +5,7 @@ Submitted by: Pranjal Ghimire
 Background Change is an ios app that has some labels and a button when the button is pressed,
 the background changes.
 
-Time spent: 1.5 hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
