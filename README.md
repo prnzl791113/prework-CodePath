@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[https://imgur.com/y1ZS9XM.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F6cDM2cGRwYXJuYzNidmJoZnAzbHBneHR5d2UxdTlhbG55bmd1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maz7ufBHUmvJCvuHkW/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe src="https://giphy.com/embed/maz7ufBHUmvJCvuHkW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/maz7ufBHUmvJCvuHkW">via GIPHY</a></p>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur
